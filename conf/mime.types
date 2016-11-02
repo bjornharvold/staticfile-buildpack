@@ -56,6 +56,16 @@ types {
   application/octet-stream iso img;
   application/octet-stream msi msp msm;
   application/json json;
+  application/vnd.traveliko-v1+json json;
+  application/vnd.traveliko-v2+json json;
+  application/vnd.traveliko-v3+json json;
+  application/vnd.traveliko-v4+json json;
+  application/vnd.traveliko-v5+json json;
+  application/vnd.traveliko-v6+json json;
+  application/vnd.traveliko-v7+json json;
+  application/vnd.traveliko-v8+json json;
+  application/vnd.traveliko-v9+json json;
+  application/vnd.traveliko-v10+json json;
   application/x-font-ttf ttf;
   application/vnd.ms-fontobject eot;
   font/x-woff woff;
